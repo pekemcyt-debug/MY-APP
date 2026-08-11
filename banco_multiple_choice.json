@@ -4893,8 +4893,7 @@
     {
       "id": 390,
       "modulo": "Módulo IV: Análisis de inversiones, contabilidad y control societario",
-      "pregunta": "Sobre el \“informe largo\" o \"KAM\" (del inglés, key Audit Matters) del auditor
-independiente",
+      "pregunta": "Sobre el informe largo o KAM (del inglés, key Audit Matters) del auditor independiente",
       "respuesta_correcta": "Cuando existe incertidumbre material por empresa en funcionamiento, el asunto se comunica en una sección separada del informe, no como KAM.",
       "incorrecta_1": "Cuando existe incertidumbre material por empresa en funcionamiento, el asunto se omite del informe para evitar causar pánico en el mercado.",
       "incorrecta_2": "Cuando existe incertidumbre material por empresa en funcionamiento, el auditor debe obligatoriamente abstenerse de emitir opinión en todos los casos.",
@@ -8378,13 +8377,7 @@ independiente",
     {
       "id": 658,
       "modulo": "Módulo VI: Productos de Inversión Colectiva",
-      "pregunta": "Indicar el monto de dinero que se obtiene de la operación de rescate de un Fondo Común de Inversión si se rescatan 8.512 cuotapartes el 6 de enero de 2020. DATOS: \n Comisión de rescate: 2,9% 
-\n 5 de enero de 2020: Valor Cuotaparte 10,560 / Cantidad Cuotapartes 
-\n 3.364.719 / Patrimonio Neto $ 35.531.433 
-\n 6 de enero de 2020: Valor Cuotaparte 10,643 / Cantidad Cuotapartes 
-\n 3.472.614 / Patrimonio Neto $ 36.959.031 
-\n 7 de enero de 2020: Valor Cuotaparte 10,892 / Cantidad Cuotapartes 
-\n 3.551.400 / Patrimonio Neto $ 38.681.849 ",
+      "pregunta": "Indicar el monto de dinero que se obtiene de la operación de rescate de un Fondo Común de Inversión si se rescatan 8.512 cuotapartes el 6 de enero de 2020. DATOS: \n Comisión de rescate: 2,9% \n 5 de enero de 2020: Valor Cuotaparte 10,560 / Cantidad Cuotapartes \n 3.364.719 / Patrimonio Neto $ 35.531.433 \n 6 de enero de 2020: Valor Cuotaparte 10,643 / Cantidad Cuotapartes \n 3.472.614 / Patrimonio Neto $ 36.959.031 \n 7 de enero de 2020: Valor Cuotaparte 10,892 / Cantidad Cuotapartes \n 3.551.400 / Patrimonio Neto $ 38.681.849 ",
       "respuesta_correcta": "87.966",
       "incorrecta_1": "85.120",
       "incorrecta_2": "90.500",
